@@ -1,6 +1,6 @@
 VTM-19.0-Intra-Frame-360-00-Original
 
-VTM reference software for VVC
+VTM 19.0 - Ramiro, Iago, and Rogério - 360 Intra-Frame Acceleration - Original
 ==============================
 
 This software package is the reference software for Rec. ITU-T H.266 | ISO/IEC 23090-3 Versatile Video Coding (VVC). The reference software includes both encoder and decoder functionality.
